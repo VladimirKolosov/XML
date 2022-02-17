@@ -1,0 +1,8 @@
+?xml version="1.0" encoding="UTF-8" ?>
+<aboutme>
+       <firstName>Vladimir</firstName>
+    <lastName>Kolosov</lastName>
+       <birthday>28.08.1994</birthday>
+    <pets>2</pets>
+    <futuresalary>no limits</futuresalary>
+</aboutme>

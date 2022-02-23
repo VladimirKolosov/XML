@@ -1,5 +1,24 @@
 ?xml version="1.0" encoding="UTF-8" ?>
 <bugreport>
-    <linkworks>YES</linkworks>
-    <authorizationworks>NO</authorizationworks >
+    <Summary>Payment on the site using Google Pay</Summary>
+    <Project>www.onlineshop.ru</Project>
+    <Componet>Payment Window</Componet>
+    <Version>1.05</Version>
+    <Severety>S3</Severety>
+    <Priority>P1</Priority>
+    <Status>Open</Status>
+    <Author>Vlaimir K.</Author>
+    <Assigned_to>Alex D.</Assigned_to>
+-<Environment>
+    <Browser>Google Chrome v 98.0.4758.102(64 bit)</Browser>
+    <OS>Windows 10 Pro v 19042.1526</OS>
+</Environment>
+-<Steps>
+    <Step_1>Open website www.onlineshop.ru</Step_1>
+    <Step_2>Add goods to shopping cart</Step_2>
+    <Step_3>Сhoose google pay for payment</Step_3>
+    <Step_4>Login to your google pay account</Step_4>
+ </Steps>
+    <Result>User cannot login in to account, because in the authorization window there is no line for entering a password</Result>
+    <Expected_Result>User can pay for order using Google Pay</Expected_Result>
 </bugreport>

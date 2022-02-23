@@ -9,11 +9,11 @@
     <Status>Open</Status>
     <Author>Vlaimir K.</Author>
     <Assigned_to>Alex D.</Assigned_to>
--<Environment>
+<Environment>
     <Browser>Google Chrome v 98.0.4758.102(64 bit)</Browser>
     <OS>Windows 10 Pro v 19042.1526</OS>
 </Environment>
--<Steps>
+ <Steps>
     <Step_1>Open website www.onlineshop.ru</Step_1>
     <Step_2>Add goods to shopping cart</Step_2>
     <Step_3>Сhoose google pay for payment</Step_3>
